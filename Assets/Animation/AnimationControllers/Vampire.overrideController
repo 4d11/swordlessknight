@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Vampire
+  m_Controller: {fileID: 9100000, guid: 24f0eb4b551ee438aaf9e86ba1cfe160, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9dc1f3326a0ae4fe58751d5602c7ef55, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5b512cd628aa44196884091786fce8f9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2ce4d55cb15114702b6498cc25a13914, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7e7dd363a461341bebb4770487df8122, type: 2}
